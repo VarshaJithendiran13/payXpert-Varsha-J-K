@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VARSHA\\hexaware\\PayXpert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE73E7C7-2F7C-403A-8BCD-2034909122D1}|PayXpert.Tests\\PayXpert.Tests.csproj|d:\\varsha\\hexaware\\payxpert\\payxpert.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE73E7C7-2F7C-403A-8BCD-2034909122D1}|PayXpert.Tests\\PayXpert.Tests.csproj|solutionrelative:payxpert.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\services\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\services\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\repository\\ipayrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\repository\\ipayrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\repository\\taxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\repository\\taxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\services\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\services\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\repository\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\repository\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\repository\\payrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\repository\\payrollrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\services\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\services\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\services\\interfaces\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\services\\interfaces\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\exceptions\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\exceptions\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644638B-87F4-4BC0-9F64-37DC30ACA81D}|Program\\PayrollSystemConsoleApp.csproj|d:\\varsha\\hexaware\\payxpert\\program\\payrollsystemconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5644638B-87F4-4BC0-9F64-37DC30ACA81D}|Program\\PayrollSystemConsoleApp.csproj|solutionrelative:program\\payrollsystemconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\services\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\services\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\repository\\financialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\repository\\financialrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|d:\\varsha\\hexaware\\payxpert\\payroll\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8587F99-4C7E-4F24-9E07-E4F8965EAA88}|Payroll\\PayrollSystem.csproj|solutionrelative:payroll\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644638B-87F4-4BC0-9F64-37DC30ACA81D}|Program\\PayrollSystemConsoleApp.csproj|d:\\varsha\\hexaware\\payxpert\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644638B-87F4-4BC0-9F64-37DC30ACA81D}|Program\\PayrollSystemConsoleApp.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaxRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\TaxRepository.cs",
+              "RelativeDocumentMoniker": "Payroll\\Repository\\TaxRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\TaxRepository.cs",
+              "RelativeToolTip": "Payroll\\Repository\\TaxRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:59:05.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Model\\Tax.cs",
+              "RelativeDocumentMoniker": "Payroll\\Model\\Tax.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Model\\Tax.cs",
+              "RelativeToolTip": "Payroll\\Model\\Tax.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:49:04.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\TaxService.cs",
+              "RelativeDocumentMoniker": "Payroll\\Services\\TaxService.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\TaxService.cs",
+              "RelativeToolTip": "Payroll\\Services\\TaxService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:45:23.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Payroll\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Payroll\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:48:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\Interfaces\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Payroll\\Services\\Interfaces\\ITaxService.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\Interfaces\\ITaxService.cs",
+              "RelativeToolTip": "Payroll\\Services\\Interfaces\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:27:13.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPayrollRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\IPayrollRepository.cs",
+              "RelativeDocumentMoniker": "Payroll\\Repository\\IPayrollRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\IPayrollRepository.cs",
+              "RelativeToolTip": "Payroll\\Repository\\IPayrollRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:04:36.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PayrollService.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\PayrollService.cs",
+              "RelativeDocumentMoniker": "Payroll\\Services\\PayrollService.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\PayrollService.cs",
+              "RelativeToolTip": "Payroll\\Services\\PayrollService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:34:00.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\PayXpert.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "PayXpert.Tests\\Test1.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\PayXpert.Tests\\Test1.cs",
+              "RelativeToolTip": "PayXpert.Tests\\Test1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:47:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPayrollService.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\Interfaces\\IPayrollService.cs",
+              "RelativeDocumentMoniker": "Payroll\\Services\\Interfaces\\IPayrollService.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\Interfaces\\IPayrollService.cs",
+              "RelativeToolTip": "Payroll\\Services\\Interfaces\\IPayrollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:18:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PayrollRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\PayrollRepository.cs",
+              "RelativeDocumentMoniker": "Payroll\\Repository\\PayrollRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\PayrollRepository.cs",
+              "RelativeToolTip": "Payroll\\Repository\\PayrollRepository.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAANoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:56:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaxRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\ITaxRepository.cs",
+              "RelativeDocumentMoniker": "Payroll\\Repository\\ITaxRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\ITaxRepository.cs",
+              "RelativeToolTip": "Payroll\\Repository\\ITaxRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:30:22.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Model\\Payroll.cs",
+              "RelativeDocumentMoniker": "Payroll\\Model\\Payroll.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Model\\Payroll.cs",
+              "RelativeToolTip": "Payroll\\Model\\Payroll.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:45:42.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mainModule.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Main\\mainModule.cs",
+              "RelativeDocumentMoniker": "Payroll\\Main\\mainModule.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Main\\mainModule.cs",
+              "RelativeToolTip": "Payroll\\Main\\mainModule.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAAAAAJgBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:51:16.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinancialRecordException.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Exceptions\\FinancialRecordException.cs",
+              "RelativeDocumentMoniker": "Payroll\\Exceptions\\FinancialRecordException.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Exceptions\\FinancialRecordException.cs",
+              "RelativeToolTip": "Payroll\\Exceptions\\FinancialRecordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:25:23.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Payroll\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Payroll\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:32:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PayrollSystemConsoleApp",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Program\\PayrollSystemConsoleApp.csproj",
+              "RelativeDocumentMoniker": "Program\\PayrollSystemConsoleApp.csproj",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Program\\PayrollSystemConsoleApp.csproj",
+              "RelativeToolTip": "Program\\PayrollSystemConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T18:56:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinancialRecordService.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\FinancialRecordService.cs",
+              "RelativeDocumentMoniker": "Payroll\\Services\\FinancialRecordService.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Services\\FinancialRecordService.cs",
+              "RelativeToolTip": "Payroll\\Services\\FinancialRecordService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:06:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Payroll\\Model\\Employee.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Model\\Employee.cs",
+              "RelativeToolTip": "Payroll\\Model\\Employee.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:42:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Payroll\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Payroll\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:10:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FinancialRecordRepository.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\FinancialRecordRepository.cs",
+              "RelativeDocumentMoniker": "Payroll\\Repository\\FinancialRecordRepository.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Payroll\\Repository\\FinancialRecordRepository.cs",
+              "RelativeToolTip": "Payroll\\Repository\\FinancialRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:57:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VARSHA\\hexaware\\PayXpert\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "D:\\VARSHA\\hexaware\\PayXpert\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:10:31.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
